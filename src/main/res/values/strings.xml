@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentSitkol</string>
+    <string name="move_activity">Pindah Activity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_prodi">Pilih Prodimu</string>
+    <string name="_d3si">D3-SI</string>
+    <string name="_s1si">S1-SI</string>
+    <string name="_s1ti">S1-TI</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="this_is_move_activity">Ini Move Activity</string>
+</resources>
